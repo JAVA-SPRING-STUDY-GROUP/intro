@@ -5,7 +5,7 @@
 자바와 스프링 김영한 로드맵 스터디를 위한 공간입니다. 
 
 
-[📒 Discussion 바로가기](https: discussion 링크 )
+[📒 Discussion 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/discussions)
 
 [📒 Notion 바로가기](https: notion...  적기)
 
