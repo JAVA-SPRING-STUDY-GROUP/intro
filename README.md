@@ -9,6 +9,10 @@
 
 [📒 Notion 바로가기](https: notion...  적기)
 
+[📒 JAVA 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/java)
+
+[📒 스프링 레포 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/spring)
+
 
 
 인프런 **김영한 자바 & 스프링 로드맵**의 **최적화 순서**에 따라 진행합니다.  
