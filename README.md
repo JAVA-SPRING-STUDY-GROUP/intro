@@ -5,13 +5,15 @@
 자바와 스프링 김영한 로드맵 스터디를 위한 공간입니다. 
 
 
-[📒 Discussion 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/discussions)
+[📒 Announcement 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/discussions) => 9월이후 공지만 올리고 디스커션 부분은 프라이빗 레포에 올림  
 
-[📒 Notion 바로가기](https://imminent-flat-e01.notion.site/9-00-10-30-22de7ecf764a80f68b82e6b4776c6a50)
+[📒 Notion 바로가기](https://www.notion.so/Update-9-00-11-00-265e7ecf764a805d9001d0a54704da3a#265e7ecf764a81458fd6c1a1a0e88c1c) 
 
-[📒 JAVA 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/java)
+[📒 JAVA 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/java) (private repo)
 
-[📒 스프링 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/spring)
+[📒 Discussion 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/discussion ) (private repo)
+
+[📒 스프링 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/spring) (private repo)
 
 
 
@@ -32,18 +34,27 @@
 
 ## 스터디 시간 
 
-  주 1회  한국시간 9:00PM - 10:30PM  (금요일 확정) 
+  주 1회  한국시간 9:00PM - 11:00PM  (금요일 확정) 
   일정이 있을시에 월-목 사이 다른 요일에 같은 시간으로 보충 
 
 
 
 
-## 구성원
+## 구성원 (가나다순)
 
 | 이름 | username | state |
 | --- | --- | --- |
 | Grace | [software24](https://github.com/swdevelop24) |   👨‍💻👑  |
+| 시경 | [leesikyeong](https://github.com/leesikyeong) | 👨‍💻  |
 | 정균 | [ryujungkyun](https://github.com/ryujungkyun)  |  👨‍💻  |
-| 제이 | [fe-Jay(Jay)](https://github.com/fe-Jay) | 👨‍💻  |
+| 준형 | [HighandLight](https://github.com/HighandLight) | 👨‍💻  |
 | 형근 | [HyungGeun94](https://github.com/HyungGeun94) | 👨‍💻  |
+
+
+<8월까지 참석>
+| 이름 | username | state |
+| --- | --- | --- |
+| 소희 | [KimSoHee](https://github.com/BillionDollarSohee) | 👨‍💻   
+
+
 
